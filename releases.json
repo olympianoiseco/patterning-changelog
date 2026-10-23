@@ -81,7 +81,7 @@
   "app": "p3",
   "version": "3.2",
   "released": "2025-07-25",
-  "notes": "▶ Auto-Create Kits\nNew AUTO-CREATE KITS option in the Project Kits tab. When enabled, a new drum kit is automatically created for each new pattern. Ideal for workflows where each pattern needs unique sounds or settings.\n\n▶ Pattern Reset\nAdded per-pattern reset option. When enabled, the pattern resets to the beginning each time it is triggered.\nShow this feature by holding ALT in the Pattern Select tab.  Use APPLY TO ALL to quickly apply across all patterns.\n\n▶ Project Drum Kit Images\nProject drum kits now display randomly generated images for easier visual identification. Images are created by cropping a random section of the kit’s official art.\n\n▶ Timeline Reordering\nYou can now drag to re-order Timelines in the Timelines view.\nNote: This works only when the clock is stopped.\n\n▶ Export UI Improvements\nExporting now provides clearer platform-specific options:\n- On macOS Standalone: Always prompts for save location. Standalone version includes “Show in Finder” after export.\n- On iOS: Includes “Share” and “Show in Files” options.\n\n▶ MIDI Control Enhancements\nAdded MIDI mapping for “Clear Pattern”\nFixed broken “Timeline Enabled” MIDI control\n\n▶ News & Tutorials UI\nImproved sorting and layout for News & Tutorials items for easier browsing.\n\n▶ Bug Fixes & Stability\nFixed Logic keystroke conflict when plugin is focused\nFixed layout issue for 11-inch iPads in AU\nFixed crash on beta versions of iPadOS 26 and macOS 26\nFixed sample gain not being restored after editing\nFuture-proofing UI for upcoming OS changes\nFixed bug with accessing drag & drop samples between launches on macOS Audiounit.  Samples imported this way will now be copied to an \"Imported Samples\" folder."
+  "notes": "▶ Auto-Create Kits\nNew AUTO-CREATE KITS option in the Project Kits tab. When enabled, a new drum kit is automatically created for each new pattern. Ideal for workflows where each pattern needs unique sounds or settings.\n\n▶ Pattern Reset\nAdded per-pattern reset option. When enabled, the pattern resets to the beginning each time it is triggered.\nShow this feature by holding ALT in the Pattern Select tab.  Use APPLY TO ALL to quickly apply across all patterns.\n\n▶ Project Drum Kit Images\nProject drum kits now display randomly generated images for easier visual identification. Images are created by cropping a random section of the kit’s official art.\n\n▶ Timeline Reordering\nYou can now drag to re-order Timelines in the Timelines view.\nNote: This works only when the clock is stopped.\n\n▶ Export UI Improvements\nExporting now provides clearer platform-specific options:\n- On macOS Standalone: Always prompts for save location. Standalone version includes “Show in Finder” after export.\n- On iOS: Includes “Share” and “Show in Files” options.\n\n▶ MIDI Control Enhancements\nAdded MIDI mapping for “Clear Pattern”\nFixed broken “Timeline Enabled” MIDI control\n\n▶ News & Tutorials UI\nImproved sorting and layout for News & Tutorials items for easier browsing.\n\n▶ Bug Fixes & Stability\nFixed Logic keystroke conflict when plugin is focused\nFixed layout issue for 11-inch iPads in AU\nFixed crash on beta versions of iPadOS 26 and macOS 26\nFixed sample gain not being restored after editing\nFuture-proofing UI for upcoming OS changes\nFixed bug with accessing drag & drop samples between launches on macOS Audiounit.  Samples imported this way will now be copied to an \"Imported Samples\" folder.\n\n*****"
  },
  {
   "app": "p3",
@@ -117,7 +117,7 @@
   "app": "p3",
   "version": "3.1.4",
   "released": "2025-05-02",
-  "notes": "Patterning 3.1 is a major, free update to Patterning 3 with loads of new features.\n\n▶ Other Updates Support for additional sample rates and various bug fixes.\n\nThis build fixes a bug that resulted in audiounit validation issues in Logic."
+  "notes": "This build fixes a bug that resulted in audiounit validation issues in Logic."
  },
  {
   "app": "p3",
@@ -135,7 +135,7 @@
   "app": "p3",
   "version": "3.1.1",
   "released": "2025-04-23",
-  "notes": "Patterning 3.1 is a major, free update for Patterning 3 users with loads of new features.\n\nFixes a bug with SHARE not showing up after audio export."
+  "notes": "Fixes a bug with SHARE not showing up after audio export."
  },
  {
   "app": "p3",
@@ -195,13 +195,13 @@
   "app": "p3",
   "version": "3.0.4",
   "released": "2024-06-07",
-  "notes": "Thank you for your continued support!  I’m working hard to improve the app daily and your reports are essential to the process!  Please continue to reach out if you encounter any issues.  support@olympianoiseco.com or via Discord.\n\nFix an issue that caused audio glitches when used inside Beatmaker 3.\nFix LFOs not being restored on reloading in AU\nFix instrument distortion parameters not being MIDI mapped correctly.\nFix an issue that prevented MIDI notes from being recorded in certain situations.\nFixed GarageBand not showing fullscreen option on certain devices.\nAllow smaller AU window to better support iPad mini.\nMinor adjustments to layout on 11-inch iPads.\nOther minor UI fixes."
+  "notes": "Fix an issue that caused audio glitches when used inside Beatmaker 3.\nFix LFOs not being restored on reloading in AU\nFix instrument distortion parameters not being MIDI mapped correctly.\nFix an issue that prevented MIDI notes from being recorded in certain situations.\nFixed GarageBand not showing fullscreen option on certain devices.\nAllow smaller AU window to better support iPad mini.\nMinor adjustments to layout on 11-inch iPads.\nOther minor UI fixes."
  },
  {
   "app": "p3",
   "version": "3.0.3",
   "released": "2024-05-31",
-  "notes": "Thank you for your purchasing Patterning 3!\n\nI’m working hard to improve the app daily and your reports are essential to the process.  Please continue to reach out if you encounter any issues.  support@olympianoiseco.com or via Discord.\n\nIf you encounter any issues loading the AU after this update, please restart your iPad and launch the standalone app before trying again - some hosts appear to cache some information about the plug-in that has changed.\n\nFixed no audio in GarageBand.\nFixed UI not showing full screen in GarageBand.\nFixed issue that caused timelines to malfunction when in use in multiple AU instances.\nFixed some timeline properties not being saved correctly.\nFixed timeline getting out of sync after rewinding the host transport in certain situations.\nFixed “Multiple Validation Issues” / “sampleEndPercent” errors.  Please let me know if these persist.\n\nOther stability improvements.\n\nFixed Ableton Live Lite Link button\nFixed new 11 inch iPad layout\nFixed iPad mini 6 layout."
+  "notes": "I’m working hard to improve the app daily and your reports are essential to the process.  Please continue to reach out if you encounter any issues.  support@olympianoiseco.com or via Discord.\n\nIf you encounter any issues loading the AU after this update, please restart your iPad and launch the standalone app before trying again - some hosts appear to cache some information about the plug-in that has changed.\n\nFixed no audio in GarageBand.\nFixed UI not showing full screen in GarageBand.\nFixed issue that caused timelines to malfunction when in use in multiple AU instances.\nFixed some timeline properties not being saved correctly.\nFixed timeline getting out of sync after rewinding the host transport in certain situations.\nFixed “Multiple Validation Issues” / “sampleEndPercent” errors.  Please let me know if these persist.\n\nOther stability improvements.\n\nFixed Ableton Live Lite Link button\nFixed new 11 inch iPad layout\nFixed iPad mini 6 layout."
  },
  {
   "app": "p3",

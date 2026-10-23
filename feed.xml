@@ -117,7 +117,8 @@
 &lt;ul&gt;&lt;li&gt;Export UI Improvements Exporting now provides clearer platform-specific options:&lt;/li&gt;&lt;li&gt;On macOS Standalone: Always prompts for save location. Standalone version includes “Show in Finder” after export.&lt;/li&gt;&lt;li&gt;On iOS: Includes “Share” and “Show in Files” options.&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;MIDI Control Enhancements Added MIDI mapping for “Clear Pattern” Fixed broken “Timeline Enabled” MIDI control&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;News &amp;amp; Tutorials UI Improved sorting and layout for News &amp;amp; Tutorials items for easier browsing.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;Bug Fixes &amp;amp; Stability Fixed Logic keystroke conflict when plugin is focused Fixed layout issue for 11-inch iPads in AU Fixed crash on beta versions of iPadOS 26 and macOS 26 Fixed sample gain not being restored after editing Future-proofing UI for upcoming OS changes Fixed bug with accessing drag &amp;amp; drop samples between launches on macOS Audiounit.  Samples imported this way will now be copied to an &amp;quot;Imported Samples&amp;quot; folder.&lt;/li&gt;&lt;/ul&gt;</content>
+&lt;ul&gt;&lt;li&gt;Bug Fixes &amp;amp; Stability Fixed Logic keystroke conflict when plugin is focused Fixed layout issue for 11-inch iPads in AU Fixed crash on beta versions of iPadOS 26 and macOS 26 Fixed sample gain not being restored after editing Future-proofing UI for upcoming OS changes Fixed bug with accessing drag &amp;amp; drop samples between launches on macOS Audiounit.  Samples imported this way will now be copied to an &amp;quot;Imported Samples&amp;quot; folder.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;****&lt;/li&gt;&lt;/ul&gt;</content>
 </entry>
 <entry>
 <title>Patterning 3 3.1.9</title>
@@ -160,9 +161,7 @@
 <id>https://olympianoiseco.github.io/patterning-changelog/#p3-3.1.4</id>
 <link href="https://olympianoiseco.github.io/patterning-changelog/p3.html#p3-3.1.4"/>
 <updated>2025-05-02T00:00:00Z</updated>
-<content type="html">&lt;p&gt;Patterning 3.1 is a major, free update to Patterning 3 with loads of new features.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;Other Updates Support for additional sample rates and various bug fixes.&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;This build fixes a bug that resulted in audiounit validation issues in Logic.&lt;/p&gt;</content>
+<content type="html">&lt;p&gt;This build fixes a bug that resulted in audiounit validation issues in Logic.&lt;/p&gt;</content>
 </entry>
 <entry>
 <title>Patterning 3 3.1.3</title>
@@ -183,8 +182,7 @@
 <id>https://olympianoiseco.github.io/patterning-changelog/#p3-3.1.1</id>
 <link href="https://olympianoiseco.github.io/patterning-changelog/p3.html#p3-3.1.1"/>
 <updated>2025-04-23T00:00:00Z</updated>
-<content type="html">&lt;p&gt;Patterning 3.1 is a major, free update for Patterning 3 users with loads of new features.&lt;/p&gt;
-&lt;p&gt;Fixes a bug with SHARE not showing up after audio export.&lt;/p&gt;</content>
+<content type="html">&lt;p&gt;Fixes a bug with SHARE not showing up after audio export.&lt;/p&gt;</content>
 </entry>
 <entry>
 <title>Patterning 3 3.1</title>
@@ -275,16 +273,14 @@
 <id>https://olympianoiseco.github.io/patterning-changelog/#p3-3.0.4</id>
 <link href="https://olympianoiseco.github.io/patterning-changelog/p3.html#p3-3.0.4"/>
 <updated>2024-06-07T00:00:00Z</updated>
-<content type="html">&lt;p&gt;Thank you for your continued support!  I’m working hard to improve the app daily and your reports are essential to the process!  Please continue to reach out if you encounter any issues.  support@olympianoiseco.com or via Discord.&lt;/p&gt;
-&lt;p&gt;Fix an issue that caused audio glitches when used inside Beatmaker 3.&lt;br&gt;Fix LFOs not being restored on reloading in AU&lt;br&gt;Fix instrument distortion parameters not being MIDI mapped correctly.&lt;br&gt;Fix an issue that prevented MIDI notes from being recorded in certain situations.&lt;br&gt;Fixed GarageBand not showing fullscreen option on certain devices.&lt;br&gt;Allow smaller AU window to better support iPad mini.&lt;br&gt;Minor adjustments to layout on 11-inch iPads.&lt;br&gt;Other minor UI fixes.&lt;/p&gt;</content>
+<content type="html">&lt;p&gt;Fix an issue that caused audio glitches when used inside Beatmaker 3.&lt;br&gt;Fix LFOs not being restored on reloading in AU&lt;br&gt;Fix instrument distortion parameters not being MIDI mapped correctly.&lt;br&gt;Fix an issue that prevented MIDI notes from being recorded in certain situations.&lt;br&gt;Fixed GarageBand not showing fullscreen option on certain devices.&lt;br&gt;Allow smaller AU window to better support iPad mini.&lt;br&gt;Minor adjustments to layout on 11-inch iPads.&lt;br&gt;Other minor UI fixes.&lt;/p&gt;</content>
 </entry>
 <entry>
 <title>Patterning 3 3.0.3</title>
 <id>https://olympianoiseco.github.io/patterning-changelog/#p3-3.0.3</id>
 <link href="https://olympianoiseco.github.io/patterning-changelog/p3.html#p3-3.0.3"/>
 <updated>2024-05-31T00:00:00Z</updated>
-<content type="html">&lt;p&gt;Thank you for your purchasing Patterning 3!&lt;/p&gt;
-&lt;p&gt;I’m working hard to improve the app daily and your reports are essential to the process.  Please continue to reach out if you encounter any issues.  support@olympianoiseco.com or via Discord.&lt;/p&gt;
+<content type="html">&lt;p&gt;I’m working hard to improve the app daily and your reports are essential to the process.  Please continue to reach out if you encounter any issues.  support@olympianoiseco.com or via Discord.&lt;/p&gt;
 &lt;p&gt;If you encounter any issues loading the AU after this update, please restart your iPad and launch the standalone app before trying again - some hosts appear to cache some information about the plug-in that has changed.&lt;/p&gt;
 &lt;p&gt;Fixed no audio in GarageBand.&lt;br&gt;Fixed UI not showing full screen in GarageBand.&lt;br&gt;Fixed issue that caused timelines to malfunction when in use in multiple AU instances.&lt;br&gt;Fixed some timeline properties not being saved correctly.&lt;br&gt;Fixed timeline getting out of sync after rewinding the host transport in certain situations.&lt;br&gt;Fixed “Multiple Validation Issues” / “sampleEndPercent” errors.  Please let me know if these persist.&lt;/p&gt;
 &lt;p&gt;Other stability improvements.&lt;/p&gt;
