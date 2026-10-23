@@ -28,7 +28,8 @@ h1{font-size:38px;font-weight:400;letter-spacing:-.3px;line-height:1.15;margin:1
          margin:44px 0 6px;padding-bottom:8px;border-bottom:1px solid var(--line)}
 
 .release{padding:22px 0;border-bottom:1px solid var(--line)}
-.release header{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px;margin-bottom:6px}
+.release header{display:flex;flex-wrap:wrap;align-items:center;gap:4px 12px;margin-bottom:8px}
+.release .icon{width:36px;height:36px;border-radius:8px;flex:none}
 .release h3{margin:0;font-size:22px;font-weight:400}
 .release time{color:var(--fgDim);font-size:14px}
 .notes{color:var(--body);overflow-wrap:anywhere}
