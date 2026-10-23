@@ -34,8 +34,7 @@
 <id>https://olympianoiseco.github.io/patterning-changelog/#ps-3.0.1</id>
 <link href="https://olympianoiseco.github.io/patterning-changelog/ps.html#ps-3.0.1"/>
 <updated>2026-09-11T00:00:00Z</updated>
-<content type="html">&lt;p&gt;Thanks for your supporting this labor of love by leaving a rating or review.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;Performance Improvements&lt;/li&gt;&lt;/ul&gt;</content>
+<content type="html">&lt;ul&gt;&lt;li&gt;Performance Improvements&lt;/li&gt;&lt;/ul&gt;</content>
 </entry>
 <entry>
 <title>Patterning (iPhone) 3.0</title>
@@ -139,22 +138,21 @@
 <id>https://olympianoiseco.github.io/patterning-changelog/#p3-3.1.7</id>
 <link href="https://olympianoiseco.github.io/patterning-changelog/p3.html#p3-3.1.7"/>
 <updated>2025-06-06T00:00:00Z</updated>
-<content type="html">&lt;p&gt;This build fixes fixes an issue where a warning about MIDI not being supported shows up many times.  It&amp;#x27;ll just show up once now, sorry!    Thanks for your continued support!&lt;/p&gt;</content>
+<content type="html">&lt;p&gt;This build fixes fixes an issue where a warning about MIDI not being supported shows up many times.  It&amp;#x27;ll just show up once now, sorry!&lt;/p&gt;</content>
 </entry>
 <entry>
 <title>Patterning 3 3.1.6</title>
 <id>https://olympianoiseco.github.io/patterning-changelog/#p3-3.1.6</id>
 <link href="https://olympianoiseco.github.io/patterning-changelog/p3.html#p3-3.1.6"/>
 <updated>2025-05-24T00:00:00Z</updated>
-<content type="html">&lt;p&gt;This build updates the layout for iPad A16 11-inch, adds support for saving and loading MIDI input mappings, and fixes some bugs relating to the export file menu.   Thanks for your continued support!&lt;/p&gt;</content>
+<content type="html">&lt;p&gt;This build updates the layout for iPad A16 11-inch, adds support for saving and loading MIDI input mappings, and fixes some bugs relating to the export file menu.&lt;/p&gt;</content>
 </entry>
 <entry>
 <title>Patterning 3 3.1.5</title>
 <id>https://olympianoiseco.github.io/patterning-changelog/#p3-3.1.5</id>
 <link href="https://olympianoiseco.github.io/patterning-changelog/p3.html#p3-3.1.5"/>
 <updated>2025-05-20T00:00:00Z</updated>
-<content type="html">&lt;p&gt;View exported files and drag them directly to your DAW or another Finder location.&lt;/p&gt;
-&lt;p&gt;This build updates the layout for iPad Mini 6 and mini A17, and other minor UI updates.  This build also removes support for &amp;quot;Export Location&amp;quot; due to a limitation of the OS that prevents retaining access to a file location between app launches.&lt;/p&gt;</content>
+<content type="html">&lt;p&gt;This build updates the layout for iPad Mini 6 and mini A17, and other minor UI updates.  This build also removes support for &amp;quot;Export Location&amp;quot; due to a limitation of the OS that prevents retaining access to a file location between app launches.&lt;/p&gt;</content>
 </entry>
 <entry>
 <title>Patterning 3 3.1.4</title>
@@ -216,24 +214,21 @@
 <updated>2024-09-24T00:00:00Z</updated>
 <content type="html">&lt;p&gt;New Feature : Sample Folder Shortcuts&lt;/p&gt;
 &lt;p&gt;You can now add shortcuts for quick access to samples anywhere on your device -  including iCloud Drive, Dropbox, and “On My iPad.”   Tap “ADD FOLDER” on the bottom left of the sample browser to select a folder to add to your favorites.&lt;/p&gt;
-&lt;p&gt;Please note : Cloud-based files can only be downloaded inside the standalone version of the app.&lt;/p&gt;
-&lt;p&gt;As always, let us know if you encounter any issues!  support@olympianoiseco.com&lt;/p&gt;</content>
+&lt;p&gt;Please note : Cloud-based files can only be downloaded inside the standalone version of the app.&lt;/p&gt;</content>
 </entry>
 <entry>
 <title>Patterning 3 3.0.9</title>
 <id>https://olympianoiseco.github.io/patterning-changelog/#p3-3.0.9</id>
 <link href="https://olympianoiseco.github.io/patterning-changelog/p3.html#p3-3.0.9"/>
 <updated>2024-09-05T00:00:00Z</updated>
-<content type="html">&lt;p&gt;Thanks for your continued support!  Please email support@olympianoiseco.com if you&amp;#x27;re experiencing any issues.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;Fixed issue with certain drum kits causing a &amp;quot;coreaudio.avaudio&amp;quot; error on download.&lt;/li&gt;&lt;li&gt;Fixed a crash and improved performance related to downloading many kits at once.&lt;/li&gt;&lt;li&gt;Fixed saving of songs located outside of the primary &amp;quot;/Songs&amp;quot; folder.&lt;/li&gt;&lt;li&gt;Improved error reporting.&lt;/li&gt;&lt;/ul&gt;</content>
+<content type="html">&lt;ul&gt;&lt;li&gt;Fixed issue with certain drum kits causing a &amp;quot;coreaudio.avaudio&amp;quot; error on download.&lt;/li&gt;&lt;li&gt;Fixed a crash and improved performance related to downloading many kits at once.&lt;/li&gt;&lt;li&gt;Fixed saving of songs located outside of the primary &amp;quot;/Songs&amp;quot; folder.&lt;/li&gt;&lt;li&gt;Improved error reporting.&lt;/li&gt;&lt;/ul&gt;</content>
 </entry>
 <entry>
 <title>Patterning 3 3.0.8</title>
 <id>https://olympianoiseco.github.io/patterning-changelog/#p3-3.0.8</id>
 <link href="https://olympianoiseco.github.io/patterning-changelog/p3.html#p3-3.0.8"/>
 <updated>2024-07-30T00:00:00Z</updated>
-<content type="html">&lt;p&gt;Patterning 3 continues to be updated with bug fixes and new features.  Please contact us with any concerns, bug reports, or questions : support@olympianoiseco.com&lt;/p&gt;
-&lt;p&gt;Add support for MIDI Mapping to the following parameters via the MIDI Input menu :&lt;/p&gt;
+<content type="html">&lt;p&gt;Add support for MIDI Mapping to the following parameters via the MIDI Input menu :&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;Pattern Select&lt;/li&gt;&lt;li&gt;Timeline Select&lt;/li&gt;&lt;li&gt;Swing Settings&lt;/li&gt;&lt;/ul&gt;</content>
 </entry>
 <entry>
@@ -255,8 +250,7 @@
 <id>https://olympianoiseco.github.io/patterning-changelog/#p3-3.0.6</id>
 <link href="https://olympianoiseco.github.io/patterning-changelog/p3.html#p3-3.0.6"/>
 <updated>2024-07-08T00:00:00Z</updated>
-<content type="html">&lt;p&gt;Thank you for your continued support!&lt;br&gt;Please report bugs or issues to support@olympianoiseco.com&lt;/p&gt;
-&lt;p&gt;Fixes issue where jumps in the host timeline (e.g. from loop points or tempo division) could cause playback dropouts.&lt;/p&gt;</content>
+<content type="html">&lt;p&gt;Fixes issue where jumps in the host timeline (e.g. from loop points or tempo division) could cause playback dropouts.&lt;/p&gt;</content>
 </entry>
 <entry>
 <title>Patterning 3 3.0.5</title>
@@ -280,9 +274,8 @@
 <id>https://olympianoiseco.github.io/patterning-changelog/#p3-3.0.3</id>
 <link href="https://olympianoiseco.github.io/patterning-changelog/p3.html#p3-3.0.3"/>
 <updated>2024-05-31T00:00:00Z</updated>
-<content type="html">&lt;p&gt;I’m working hard to improve the app daily and your reports are essential to the process.  Please continue to reach out if you encounter any issues.  support@olympianoiseco.com or via Discord.&lt;/p&gt;
-&lt;p&gt;If you encounter any issues loading the AU after this update, please restart your iPad and launch the standalone app before trying again - some hosts appear to cache some information about the plug-in that has changed.&lt;/p&gt;
-&lt;p&gt;Fixed no audio in GarageBand.&lt;br&gt;Fixed UI not showing full screen in GarageBand.&lt;br&gt;Fixed issue that caused timelines to malfunction when in use in multiple AU instances.&lt;br&gt;Fixed some timeline properties not being saved correctly.&lt;br&gt;Fixed timeline getting out of sync after rewinding the host transport in certain situations.&lt;br&gt;Fixed “Multiple Validation Issues” / “sampleEndPercent” errors.  Please let me know if these persist.&lt;/p&gt;
+<content type="html">&lt;p&gt;If you encounter any issues loading the AU after this update, please restart your iPad and launch the standalone app before trying again - some hosts appear to cache some information about the plug-in that has changed.&lt;/p&gt;
+&lt;p&gt;Fixed no audio in GarageBand.&lt;br&gt;Fixed UI not showing full screen in GarageBand.&lt;br&gt;Fixed issue that caused timelines to malfunction when in use in multiple AU instances.&lt;br&gt;Fixed some timeline properties not being saved correctly.&lt;br&gt;Fixed timeline getting out of sync after rewinding the host transport in certain situations.&lt;br&gt;Fixed “Multiple Validation Issues” / “sampleEndPercent” errors.&lt;/p&gt;
 &lt;p&gt;Other stability improvements.&lt;/p&gt;
 &lt;p&gt;Fixed Ableton Live Lite Link button&lt;br&gt;Fixed new 11 inch iPad layout&lt;br&gt;Fixed iPad mini 6 layout.&lt;/p&gt;</content>
 </entry>
@@ -291,9 +284,7 @@
 <id>https://olympianoiseco.github.io/patterning-changelog/#p3-3.0.2</id>
 <link href="https://olympianoiseco.github.io/patterning-changelog/p3.html#p3-3.0.2"/>
 <updated>2024-05-22T00:00:00Z</updated>
-<content type="html">&lt;p&gt;Thank you for purchasing Patterning 3!&lt;/p&gt;
-&lt;p&gt;Have fun and let us know if you encounter any issues.  You can contact us at support@olympianoiseco.com or by joining our Discord server.&lt;/p&gt;
-&lt;p&gt;We appreciate your support!&lt;/p&gt;</content>
+<content type="html">&lt;p&gt;Initial release.&lt;/p&gt;</content>
 </entry>
 <entry>
 <title>Patterning 3 3.0.1</title>

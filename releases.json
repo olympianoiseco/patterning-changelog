@@ -21,7 +21,7 @@
   "app": "ps",
   "version": "3.0.1",
   "released": "2026-09-11",
-  "notes": "Thanks for your supporting this labor of love by leaving a rating or review.\n• Performance Improvements"
+  "notes": "• Performance Improvements"
  },
  {
   "app": "ps",
@@ -99,19 +99,19 @@
   "app": "p3",
   "version": "3.1.7",
   "released": "2025-06-06",
-  "notes": "This build fixes fixes an issue where a warning about MIDI not being supported shows up many times.  It'll just show up once now, sorry!    Thanks for your continued support!"
+  "notes": "This build fixes fixes an issue where a warning about MIDI not being supported shows up many times.  It'll just show up once now, sorry!"
  },
  {
   "app": "p3",
   "version": "3.1.6",
   "released": "2025-05-24",
-  "notes": "This build updates the layout for iPad A16 11-inch, adds support for saving and loading MIDI input mappings, and fixes some bugs relating to the export file menu.   Thanks for your continued support!"
+  "notes": "This build updates the layout for iPad A16 11-inch, adds support for saving and loading MIDI input mappings, and fixes some bugs relating to the export file menu."
  },
  {
   "app": "p3",
   "version": "3.1.5",
   "released": "2025-05-20",
-  "notes": "View exported files and drag them directly to your DAW or another Finder location.\n\nThis build updates the layout for iPad Mini 6 and mini A17, and other minor UI updates.  This build also removes support for \"Export Location\" due to a limitation of the OS that prevents retaining access to a file location between app launches."
+  "notes": "This build updates the layout for iPad Mini 6 and mini A17, and other minor UI updates.  This build also removes support for \"Export Location\" due to a limitation of the OS that prevents retaining access to a file location between app launches."
  },
  {
   "app": "p3",
@@ -153,19 +153,19 @@
   "app": "p3",
   "version": "3.0.10",
   "released": "2024-09-24",
-  "notes": "New Feature : Sample Folder Shortcuts\n\nYou can now add shortcuts for quick access to samples anywhere on your device -  including iCloud Drive, Dropbox, and “On My iPad.”   Tap “ADD FOLDER” on the bottom left of the sample browser to select a folder to add to your favorites.\n\nPlease note : Cloud-based files can only be downloaded inside the standalone version of the app.\n\nAs always, let us know if you encounter any issues!  support@olympianoiseco.com"
+  "notes": "New Feature : Sample Folder Shortcuts\n\nYou can now add shortcuts for quick access to samples anywhere on your device -  including iCloud Drive, Dropbox, and “On My iPad.”   Tap “ADD FOLDER” on the bottom left of the sample browser to select a folder to add to your favorites.\n\nPlease note : Cloud-based files can only be downloaded inside the standalone version of the app."
  },
  {
   "app": "p3",
   "version": "3.0.9",
   "released": "2024-09-05",
-  "notes": "Thanks for your continued support!  Please email support@olympianoiseco.com if you're experiencing any issues.\n\n• Fixed issue with certain drum kits causing a \"coreaudio.avaudio\" error on download.\n• Fixed a crash and improved performance related to downloading many kits at once.\n• Fixed saving of songs located outside of the primary \"/Songs\" folder.\n• Improved error reporting."
+  "notes": "• Fixed issue with certain drum kits causing a \"coreaudio.avaudio\" error on download.\n• Fixed a crash and improved performance related to downloading many kits at once.\n• Fixed saving of songs located outside of the primary \"/Songs\" folder.\n• Improved error reporting."
  },
  {
   "app": "p3",
   "version": "3.0.8",
   "released": "2024-07-30",
-  "notes": "Patterning 3 continues to be updated with bug fixes and new features.  Please contact us with any concerns, bug reports, or questions : support@olympianoiseco.com\n\nAdd support for MIDI Mapping to the following parameters via the MIDI Input menu :\n\n• Pattern Select\n• Timeline Select\n• Swing Settings"
+  "notes": "Add support for MIDI Mapping to the following parameters via the MIDI Input menu :\n\n• Pattern Select\n• Timeline Select\n• Swing Settings"
  },
  {
   "app": "p3",
@@ -183,7 +183,7 @@
   "app": "p3",
   "version": "3.0.6",
   "released": "2024-07-08",
-  "notes": "Thank you for your continued support!\nPlease report bugs or issues to support@olympianoiseco.com\n\nFixes issue where jumps in the host timeline (e.g. from loop points or tempo division) could cause playback dropouts."
+  "notes": "Fixes issue where jumps in the host timeline (e.g. from loop points or tempo division) could cause playback dropouts."
  },
  {
   "app": "p3",
@@ -201,13 +201,13 @@
   "app": "p3",
   "version": "3.0.3",
   "released": "2024-05-31",
-  "notes": "I’m working hard to improve the app daily and your reports are essential to the process.  Please continue to reach out if you encounter any issues.  support@olympianoiseco.com or via Discord.\n\nIf you encounter any issues loading the AU after this update, please restart your iPad and launch the standalone app before trying again - some hosts appear to cache some information about the plug-in that has changed.\n\nFixed no audio in GarageBand.\nFixed UI not showing full screen in GarageBand.\nFixed issue that caused timelines to malfunction when in use in multiple AU instances.\nFixed some timeline properties not being saved correctly.\nFixed timeline getting out of sync after rewinding the host transport in certain situations.\nFixed “Multiple Validation Issues” / “sampleEndPercent” errors.  Please let me know if these persist.\n\nOther stability improvements.\n\nFixed Ableton Live Lite Link button\nFixed new 11 inch iPad layout\nFixed iPad mini 6 layout."
+  "notes": "If you encounter any issues loading the AU after this update, please restart your iPad and launch the standalone app before trying again - some hosts appear to cache some information about the plug-in that has changed.\n\nFixed no audio in GarageBand.\nFixed UI not showing full screen in GarageBand.\nFixed issue that caused timelines to malfunction when in use in multiple AU instances.\nFixed some timeline properties not being saved correctly.\nFixed timeline getting out of sync after rewinding the host transport in certain situations.\nFixed “Multiple Validation Issues” / “sampleEndPercent” errors.\n\nOther stability improvements.\n\nFixed Ableton Live Lite Link button\nFixed new 11 inch iPad layout\nFixed iPad mini 6 layout."
  },
  {
   "app": "p3",
   "version": "3.0.2",
   "released": "2024-05-22",
-  "notes": "Thank you for purchasing Patterning 3!\n\nHave fun and let us know if you encounter any issues.  You can contact us at support@olympianoiseco.com or by joining our Discord server.\n\nWe appreciate your support!"
+  "notes": "Initial release."
  },
  {
   "app": "p3",
@@ -405,7 +405,7 @@
   "app": "patterning-2",
   "version": "2.2.3",
   "released": "2020-03-21",
-  "notes": "Thanks for using Patterning 2!  Please report issues or bugs to support at olympianoiseco dot com\n\n• Fix crash that could occur when saving ONPS files\n• Fix stuck on launch that could happen when opening ONPS files\n• Change ONPS and ONPD file icon."
+  "notes": "• Fix crash that could occur when saving ONPS files\n• Fix stuck on launch that could happen when opening ONPS files\n• Change ONPS and ONPD file icon."
  },
  {
   "app": "patterning-iphone-legacy",
@@ -417,7 +417,7 @@
   "app": "patterning-2",
   "version": "2.2.2",
   "released": "2020-03-16",
-  "notes": "Thanks for using Patterning!  This is a bug fix update.\n\n• Fix issue with track selection graphics.\n• Fix issue that could cause stuck loading sequence when importing songs.\n• Fix issue with deleting songs not updating the song list.\n• Fixed issue that caused the incorrect layer to show after saving a song.\n• Under the hood changes in prep for future releases."
+  "notes": "This is a bug fix update.\n\n• Fix issue with track selection graphics.\n• Fix issue that could cause stuck loading sequence when importing songs.\n• Fix issue with deleting songs not updating the song list.\n• Fixed issue that caused the incorrect layer to show after saving a song.\n• Under the hood changes in prep for future releases."
  },
  {
   "app": "patterning-2",
@@ -507,37 +507,37 @@
   "app": "patterning-2",
   "version": "2.0.9",
   "released": "2018-11-30",
-  "notes": "Patterning 2.0.9\n• Updates to layout on iPad Pro 11-inch\n• Removed sample import from iTunes File Sharing.  Use the \"Files\" option to access files in the iTunes File Sharing instead."
+  "notes": "• Updates to layout on iPad Pro 11-inch\n• Removed sample import from iTunes File Sharing.  Use the \"Files\" option to access files in the iTunes File Sharing instead."
  },
  {
   "app": "patterning-2",
   "version": "2.0.8",
   "released": "2018-10-22",
-  "notes": "Patterning 2.0.8\n• You can now download a free copy of Ableton Live Lite 10 from the Song EXPORT... Menu.\n• Fixed bug which allowed users to (attempt to) import MIDI and other non-supported file type."
+  "notes": "• You can now download a free copy of Ableton Live Lite 10 from the Song EXPORT... Menu.\n• Fixed bug which allowed users to (attempt to) import MIDI and other non-supported file type."
  },
  {
   "app": "patterning-2",
   "version": "2.0.7",
   "released": "2018-09-19",
-  "notes": "Patterning 2.0.7\n• Samples now automatically are imported into the currently selected folder when importing from Files, Dropbox, etc.\n• Dropbox sample import can now import entire contents of a folder with one tap.\n• Auto select new folders on creation.\n• Added “APPLY TO ALL” for MIDI Ports to quickly setup multiple tracks within the current Drum Kit..\n• Added “APPLY TO ALL” for MIDI Note Transpose Quantize and Coarse Tune Quantize within the current Drum Kit.\n• Samples now automatically are imported into the currently selected folder."
+  "notes": "• Samples now automatically are imported into the currently selected folder when importing from Files, Dropbox, etc.\n• Dropbox sample import can now import entire contents of a folder with one tap.\n• Auto select new folders on creation.\n• Added “APPLY TO ALL” for MIDI Ports to quickly setup multiple tracks within the current Drum Kit..\n• Added “APPLY TO ALL” for MIDI Note Transpose Quantize and Coarse Tune Quantize within the current Drum Kit.\n• Samples now automatically are imported into the currently selected folder."
  },
  {
   "app": "patterning-2",
   "version": "2.0.6",
   "released": "2018-08-23",
-  "notes": "Patterning 2.0.6\n• Added new color schemes.  Available on the FILE screen, please re-launch app for changes to take place.\n• Added Bluetooth MIDI support.  Available from MIDI Configuration on FILE screen.\n• When importing a song from Patterning 1, loops with “Coarse Tune -> MIDI Note Transpose” automation data is now correctly copied to the MIDI Note Transpose layer.\n• Add indicator to show which step is currently being edited.\n• Fix a bug that could cause a crash when using switches.\n• Fix a bug that allowed MIDI note transpose pitch classes to be empty.\n• Fix minor UI issue with offset grid.\n• Update some frameworks."
+  "notes": "• Added new color schemes.  Available on the FILE screen, please re-launch app for changes to take place.\n• Added Bluetooth MIDI support.  Available from MIDI Configuration on FILE screen.\n• When importing a song from Patterning 1, loops with “Coarse Tune -> MIDI Note Transpose” automation data is now correctly copied to the MIDI Note Transpose layer.\n• Add indicator to show which step is currently being edited.\n• Fix a bug that could cause a crash when using switches.\n• Fix a bug that allowed MIDI note transpose pitch classes to be empty.\n• Fix minor UI issue with offset grid.\n• Update some frameworks."
  },
  {
   "app": "patterning-2",
   "version": "2.0.5",
   "released": "2018-08-04",
-  "notes": "Patterning 2.0.5\n• Fix issue that could cause a crash when switching samples.\n• Fix issue that could cause \"Dangling reference to invalid object\" error"
+  "notes": "• Fix issue that could cause a crash when switching samples.\n• Fix issue that could cause \"Dangling reference to invalid object\" error"
  },
  {
   "app": "patterning-2",
   "version": "2.0.4",
   "released": "2018-08-02",
-  "notes": "Thanks for your help making Patterning 2 a success!  Please report bugs or issues to support@olympianoiseco.com so they can be fixed.\n\nPatterning 2.0.4\n• Loop phase indicators now display when using Record Pads.\n• Fix text color of buttons in Files selector for choosing samples, which made selecting multiple samples or closing the window impossible.\n• Fix error messages for importing database.\n• Fix Error saving when Auto-Rotate set to ±64\n• Fix text for final step of tutorial\n• Change name of Quantize coarse tuning to “QUANTIZE INTERVAL from C”\n• Fix display of quantized coarse tune and midi note transpose values when editing (in the top right corner of the app window, sliders will still display unquantized values.\n• Fixed issue which prevented re-downloading previously deleted samples.\n• Fixed issue with multiple selection drags in timeline deleting all timeline data before it.\n• Fix incorrect localization information.\n• Add additional logging to help track down an issue causing a crash.\n• Fix to a crash that can occur while the app is transitioning into the background."
+  "notes": "• Loop phase indicators now display when using Record Pads.\n• Fix text color of buttons in Files selector for choosing samples, which made selecting multiple samples or closing the window impossible.\n• Fix error messages for importing database.\n• Fix Error saving when Auto-Rotate set to ±64\n• Fix text for final step of tutorial\n• Change name of Quantize coarse tuning to “QUANTIZE INTERVAL from C”\n• Fix display of quantized coarse tune and midi note transpose values when editing (in the top right corner of the app window, sliders will still display unquantized values.\n• Fixed issue which prevented re-downloading previously deleted samples.\n• Fixed issue with multiple selection drags in timeline deleting all timeline data before it.\n• Fix incorrect localization information.\n• Add additional logging to help track down an issue causing a crash.\n• Fix to a crash that can occur while the app is transitioning into the background."
  },
  {
   "app": "patterning-2",
@@ -621,13 +621,13 @@
   "app": "patterning-2015",
   "version": "1.1",
   "released": "2016-06-02",
-  "notes": "In this update we’ve added a ton of new features to improve your creative workflow — including audio export, new and improved sync options, a more useful timeline, MIDI mappings, as well as interface improvements that make Patterning even more fun and inspiring to work with.  As always, let us know if you have any questions or run into any issues.   support@olympianoiseco.com\nAudio Export\nPatterning now includes a highly configurable audio export function for getting your drum tracks out of Patterning and into the next stage of your process.  It’s easy to turn your beats into perfect audio loops or entire songs in .WAV format.  Bounce individual tracks or the main mix and save your files to AudioShare, iTunes File Sharing or using “Open in….” to save to Dropbox or other apps.\nMIDI Mapping\nMap your hardware MIDI controller to control mixer and sample settings, trigger pattern changes, and more.  Assign CC’s, notes, or program changes to parameters using the MIDI learn function, and fine tune parameter ranges with the MIDI configuration menu.  MIDI mappings can be imported from other songs to easily reuse your favorite mappings.\nNew & Improved Sync Options\nA consolidated Sync menu makes your sync settings easier to configure.  In addition to Ableton Link, Patterning now supports Inter-App Audio sync and a completely re-written MIDI Clock implementation.  Inter-App Audio sync and transport controls are available when connected to the master Inter-App Audio port.\nInter-App Audio Track Output\nPatterning now supports individual Inter-App Audio outputs for each track as well as the master output.  Connect up tracks to Audiobus, AUM, or another Inter-App Audio host to apply effects to individual tracks.\nMIDI Output Enhancements\nIn addition to notes, MIDI enabled tracks can now send automation data in the form of CC or pitch bend messages.  Track layers are assigned to MIDI destinations according to the MIDI standard.  MIDI Track settings can be imported from other songs"
+  "notes": "In this update we’ve added a ton of new features to improve your creative workflow — including audio export, new and improved sync options, a more useful timeline, MIDI mappings, as well as interface improvements that make Patterning even more fun and inspiring to work with.\nAudio Export\nPatterning now includes a highly configurable audio export function for getting your drum tracks out of Patterning and into the next stage of your process.  It’s easy to turn your beats into perfect audio loops or entire songs in .WAV format.  Bounce individual tracks or the main mix and save your files to AudioShare, iTunes File Sharing or using “Open in….” to save to Dropbox or other apps.\nMIDI Mapping\nMap your hardware MIDI controller to control mixer and sample settings, trigger pattern changes, and more.  Assign CC’s, notes, or program changes to parameters using the MIDI learn function, and fine tune parameter ranges with the MIDI configuration menu.  MIDI mappings can be imported from other songs to easily reuse your favorite mappings.\nNew & Improved Sync Options\nA consolidated Sync menu makes your sync settings easier to configure.  In addition to Ableton Link, Patterning now supports Inter-App Audio sync and a completely re-written MIDI Clock implementation.  Inter-App Audio sync and transport controls are available when connected to the master Inter-App Audio port.\nInter-App Audio Track Output\nPatterning now supports individual Inter-App Audio outputs for each track as well as the master output.  Connect up tracks to Audiobus, AUM, or another Inter-App Audio host to apply effects to individual tracks.\nMIDI Output Enhancements\nIn addition to notes, MIDI enabled tracks can now send automation data in the form of CC or pitch bend messages.  Track layers are assigned to MIDI destinations according to the MIDI standard.  MIDI Track settings can be imported from other songs"
  },
  {
   "app": "patterning-2015",
   "version": "1.0.6",
   "released": "2015-12-17",
-  "notes": "• Ableton Link!  Ableton Link is a new technology that synchronizes beat, phase and tempo of Ableton Live and Link-enabled iOS apps over a wireless network.  Learn more about Ableton Link : Ableton.com/link\n• iPad Pro support.\n• Restores Dropbox support on iOS 9.\n• Other bug fixes & stability improvements.\n• Use “Open In” from other apps"
+  "notes": "• Ableton Link!  Ableton Link is a new technology that synchronizes beat, phase and tempo of Ableton Live and Link-enabled iOS apps over a wireless network.  Learn more about Ableton Link : Ableton.com/link\n• iPad Pro support.\n• Restores Dropbox support on iOS 9.\n• Other bug fixes & stability improvements."
  },
  {
   "app": "patterning-2015",
